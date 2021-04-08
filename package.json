@@ -1,0 +1,23 @@
+{
+  "name": "fe-root",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "bootstrap": "npx lerna bootstrap",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "clean": "shx rm -rf **/node_modules",
+    "release": "lerna run build & lerna publish --no-commit-hooks"
+  },
+  "workspaces": [
+    "./packages/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbkmoney/fe-core"
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "shx": "^0.3.3"
+  }
+}
