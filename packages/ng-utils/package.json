@@ -1,0 +1,22 @@
+{
+  "name": "@rbkmoney/ng-utils",
+  "version": "0.1.0",
+  "description": "Angular Utils",
+  "author": "rbkmoney",
+  "main": "lib/index.js",
+  "types": "lib/index.d.js",
+  "scripts": {
+    "build": "npm run clean & tsc -p tsconfig.json",
+    "clean": "shx rm -rf lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbkmoney/fe-core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rbkmoney"
+  },
+  "optionalDependencies": {
+    "@angular/core": "^11.2.9"
+  }
+}

@@ -17,7 +17,17 @@
     "url": "https://github.com/rbkmoney/fe-core"
   },
   "devDependencies": {
-    "lerna": "^4.0.0",
-    "shx": "^0.3.3"
+    "@types/jasmine": "^3.6.9",
+    "@typescript-eslint/eslint-plugin": "^4.21.0",
+    "@typescript-eslint/parser": "^4.21.0",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "jasmine": "^3.7.0",
+    "jasmine-console-reporter": "^3.1.0",
+    "jasmine-marbles": "^0.8.1",
+    "prettier": "^2.2.1",
+    "shx": "^0.3.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
   }
 }
