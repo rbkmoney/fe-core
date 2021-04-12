@@ -3,7 +3,6 @@
 -   [NPM Workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
 -   [Lerna](https://github.com/lerna/lerna)
 -   [Prettier](https://prettier.io/)
--
 
 ## Installation
 
