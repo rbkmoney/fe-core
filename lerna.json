@@ -1,0 +1,13 @@
+{
+    "npmClient": "npm",
+    "packages": ["packages/*"],
+    "version": "independent",
+    "command": {
+        "publish": {
+            "conventionalCommits": true
+        }
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    }
+}

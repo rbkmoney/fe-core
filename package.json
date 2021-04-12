@@ -1,8 +1,13 @@
 {
   "name": "fe-root",
-  "version": "0.0.0",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "build": "lerna run build",
+    "test": "lerna run test",
+    "clean": "shx rm -rf **/node_modules",
+    "release": "lerna run build & lerna publish --no-commit-hooks"
+  },
   "workspaces": [
     "./packages/*"
   ],
@@ -19,6 +24,7 @@
     "jasmine": "^3.7.0",
     "jasmine-console-reporter": "^3.1.0",
     "jasmine-marbles": "^0.8.1",
+    "lerna": "^4.0.0",
     "prettier": "^2.2.1",
     "shx": "^0.3.3",
     "ts-node": "^9.1.1",
