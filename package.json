@@ -2,7 +2,6 @@
   "name": "fe-root",
   "private": true,
   "scripts": {
-    "bootstrap": "npx lerna bootstrap",
     "build": "lerna run build",
     "test": "lerna run test",
     "clean": "shx rm -rf **/node_modules",

@@ -14,7 +14,7 @@ jobs:
         with:
           node-version: 15
           registry-url: https://npm.pkg.github.com/
-      - run: npm run bootstrap
+      - run: npm ci
       - run: npm run release
         env:
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
