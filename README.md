@@ -5,7 +5,6 @@
 
 -   [Prettier](https://prettier.io/)
 -   CommitLint
--
 
 ## Installation
 
