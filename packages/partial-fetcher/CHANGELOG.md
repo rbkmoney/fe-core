@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0-alpha.4](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/partial-fetcher2@0.5.0-alpha.3...@rbkmoney/partial-fetcher2@0.5.0-alpha.4) (2021-04-13)
+
+
+### Features
+
+* test ([124e3b4](https://github.com/rbkmoney/fe-core/commit/124e3b49d054d68abb8a9d7c1730e81843a046cf))
+
+
+
+
+
 # [0.5.0-alpha.3](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/partial-fetcher2@0.4.0...@rbkmoney/partial-fetcher2@0.5.0-alpha.3) (2021-04-13)
 
 
