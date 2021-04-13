@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.2.2 (2021-04-13)
+
+
+### Bug Fixes
+
+* rm script ([d7089a8](https://github.com/rbkmoney/fe-core/commit/d7089a8cf2d5d2debf55cc3dea5b93c26c0979e9))
+
+
+
+
+
 ## 0.2.1 (2021-04-13)
 
 **Note:** Version bump only for package @rbkmoney/partial-fetcher2
