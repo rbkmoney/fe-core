@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.3 (2021-04-13)
+
+
+### Bug Fixes
+
+* rename ([a4b353e](https://github.com/rbkmoney/fe-core/commit/a4b353e0a8fec15d3f98d3cd3e452000fc97335e))
+
+
+
+
+
 ## 0.1.2 (2021-04-13)
 
 
