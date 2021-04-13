@@ -1,0 +1,24 @@
+{
+  "name": "@rbkmoney/partial-fetcher",
+  "version": "0.0.0",
+  "description": "Partial Fetcher",
+  "author": "rbkmoney",
+  "main": "lib/index.js",
+  "types": "lib/index.d.js",
+  "scripts": {
+    "build": "npm run clean & tsc -p tsconfig.json",
+    "clean": "shx rm -rf lib",
+    "test": "ts-node ../../node_modules/jasmine/bin/jasmine src/**/*.spec.ts --reporter=jasmine-console-reporter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbkmoney/fe-core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rbkmoney"
+  },
+  "optionalDependencies": {
+    "@ngneat/until-destroy": "^8.0.4",
+    "rxjs": "^6.6.7"
+  }
+}

@@ -1,13 +1,12 @@
 {
   "name": "fe-root",
-  "version": "0.0.0",
   "private": true,
   "scripts": {
-    "bootstrap": "npx lerna bootstrap",
     "build": "lerna run build",
     "test": "lerna run test",
     "clean": "shx rm -rf **/node_modules",
-    "release": "lerna run build & lerna publish --no-commit-hooks"
+    "release": "lerna run build & lerna publish --no-commit-hooks --yes",
+    "prepare": "husky install"
   },
   "workspaces": [
     "./packages/*"
@@ -17,7 +16,21 @@
     "url": "https://github.com/rbkmoney/fe-core"
   },
   "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
+    "@types/jasmine": "^3.6.9",
+    "@typescript-eslint/eslint-plugin": "^4.21.0",
+    "@typescript-eslint/parser": "^4.21.0",
+    "eslint": "^7.23.0",
+    "eslint-config-prettier": "^8.1.0",
+    "husky": "^6.0.0",
+    "jasmine": "^3.7.0",
+    "jasmine-console-reporter": "^3.1.0",
+    "jasmine-marbles": "^0.8.1",
     "lerna": "^4.0.0",
-    "shx": "^0.3.3"
+    "prettier": "^2.2.1",
+    "shx": "^0.3.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
   }
 }

@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2015",
+        "lib": ["ESNext", "DOM"],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "experimentalDecorators": true,
+        "sourceMap": true,
+        "declaration": true,
+        "skipLibCheck": true
+    }
+}
