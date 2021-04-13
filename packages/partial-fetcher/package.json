@@ -1,6 +1,6 @@
 {
   "name": "@rbkmoney/partial-fetcher2",
-  "version": "0.2.2",
+  "version": "0.3.0",
   "description": "Partial Fetcher 111",
   "author": "rbkmoney",
   "main": "lib/index.js",
