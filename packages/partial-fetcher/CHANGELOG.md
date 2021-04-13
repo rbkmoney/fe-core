@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.2.0 (2021-04-13)
+
+
+### Features
+
+* add readme ([c0296ba](https://github.com/rbkmoney/fe-core/commit/c0296ba2b7740394b0bad6c7527ee03317c66272))
+
+
+
+
+
 ## 0.1.4 (2021-04-13)
 
 **Note:** Version bump only for package @rbkmoney/partial-fetcher2
