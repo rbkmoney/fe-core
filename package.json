@@ -5,7 +5,7 @@
     "build": "lerna run build",
     "test": "lerna run test",
     "clean": "shx rm -rf **/node_modules",
-    "release": "lerna run build & lerna publish --no-commit-hooks --no-verify-access --yes",
+    "release": "lerna run build & lerna publish from-package --no-commit-hooks --no-verify-access --yes",
     "prepare": "husky install"
   },
   "workspaces": [
