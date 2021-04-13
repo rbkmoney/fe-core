@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.1.2 (2021-04-13)
+
+
+### Bug Fixes
+
+* no verify access ([210415b](https://github.com/rbkmoney/fe-core/commit/210415b6ca43330d442074a16c8976ce0e6efa01))
+
+
+
+
+
 ## 0.1.1 (2021-04-13)
 
 
