@@ -1,15 +1,32 @@
 name: Test
 
-on: [push]
+on:
+  push:
+    branches-ignore:
+      - master
+      - release
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v1
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Node ${{ matrix.node_version }}
+        uses: actions/setup-node@v1
         with:
           node-version: 15
-      - run: npm ci
-      - run: npm run test
-      - run: npm run build
+          registry-url: https://npm.pkg.github.com/
+      - name: Git Identity
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/$GITHUB_REPOSITORY
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Install
+        run: npm ci
+      - name: Test
+        run: npm run test
+      - name: Build
+        run: npm run build
