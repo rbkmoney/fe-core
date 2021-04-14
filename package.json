@@ -5,7 +5,7 @@
     "prepare": "husky install",
     "build": "lerna run build",
     "test": "lerna run test",
-    "versionup": "lerna version --no-commit-hooks --conventional-prerelease --amend --no-push --no-verify --preid pr --yes",
+    "versionup": "lerna version --no-commit-hooks --conventional-prerelease --no-push --no-verify --preid pr --yes",
     "release": "run-s build release-versionup release-publish",
     "release-versionup": "lerna version --no-commit-hooks --conventional-graduate --yes",
     "release-publish": "lerna publish from-package --no-commit-hooks --no-verify-access --yes"
