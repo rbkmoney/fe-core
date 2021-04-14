@@ -1,6 +1,4 @@
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
-npm run versionup
-git add *
-npx cross-env HUSKY_SKIP_HOOKS=1 git commit --amend --no-edit
+npm run versionup && git add * && npx cross-env HUSKY_SKIP_HOOKS=1 git commit --amend --no-edit
