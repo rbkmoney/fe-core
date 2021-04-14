@@ -1,6 +1,6 @@
 {
   "name": "@rbkmoney/utils",
-  "version": "0.5.0-pr.162",
+  "version": "0.5.0-pr.163",
   "description": "Utils 1",
   "author": "rbkmoney",
   "main": "lib/index.js",
