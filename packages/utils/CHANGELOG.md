@@ -3,6 +3,646 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0-pr.89](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.89) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([795106d](https://github.com/rbkmoney/fe-core/commit/795106d20faf3b3be3aab79ea2e92567164bf340))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.88](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.88) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([9923414](https://github.com/rbkmoney/fe-core/commit/99234147fce3f79b7a4037d2ef045d642b9d4f61))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.87](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.87) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([7208837](https://github.com/rbkmoney/fe-core/commit/72088370ccd420072021602e077ad26521690872))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.86](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.86) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([34546e0](https://github.com/rbkmoney/fe-core/commit/34546e0e586eab5202ba1b0c64b38891143a1059))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.85](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.85) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([ab1c252](https://github.com/rbkmoney/fe-core/commit/ab1c252bdbaa6ab542efcc47ffaefb52240ce08c))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.84](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.84) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([0a7695e](https://github.com/rbkmoney/fe-core/commit/0a7695eecfa5571945a30419820c226f471ed838))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.83](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.83) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([d1ee130](https://github.com/rbkmoney/fe-core/commit/d1ee130bc88e5a42fd7c3302613089f09a57d33a))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.82](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.82) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([481a0d6](https://github.com/rbkmoney/fe-core/commit/481a0d67b677428893e7890424669cec72988e5d))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.81](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.81) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([61b2cde](https://github.com/rbkmoney/fe-core/commit/61b2cde8abf7e736094a60f1d51defdb14d65252))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.80](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.80) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([6ba2199](https://github.com/rbkmoney/fe-core/commit/6ba21999f8a08a05a71147ce9f4db85193790c37))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.79](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.79) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([84fd3af](https://github.com/rbkmoney/fe-core/commit/84fd3af2df5bbc18133a2cd9003fe2d9936403ff))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.78](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.78) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([d12d6b1](https://github.com/rbkmoney/fe-core/commit/d12d6b15eb1c4666be57b15a0d1b266e4fafa459))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.77](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.77) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([35d40c4](https://github.com/rbkmoney/fe-core/commit/35d40c41550cb5d7ecdf892dc70a4df7c53ee854))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.76](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.76) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([b76af0b](https://github.com/rbkmoney/fe-core/commit/b76af0b28eacc307806feeb2868b37d0a2d1dcdd))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.75](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.75) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([8c01b8e](https://github.com/rbkmoney/fe-core/commit/8c01b8ed566ac5e5af61fd6d7fc9cc2eb783f6b2))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
+# [0.5.0-pr.74](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.74) (2021-04-14)
+
+
+### Bug Fixes
+
+* - ([931e9e2](https://github.com/rbkmoney/fe-core/commit/931e9e22a5a124a588849ed14050b5a00770d748))
+* --no-edit ([7bf123e](https://github.com/rbkmoney/fe-core/commit/7bf123e78c3ac07830601df70f17b57850e9c712))
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* 47 ([a4573d5](https://github.com/rbkmoney/fe-core/commit/a4573d58d4f969c0e4f16fa9c703943eb31975de))
+* 47 ([f20823e](https://github.com/rbkmoney/fe-core/commit/f20823eb69a3c9d35a5c09ece2f9f725e668965c))
+* 51 ([b3f884d](https://github.com/rbkmoney/fe-core/commit/b3f884d27de2488bcba47fadbd3c3300b8fda82f))
+* 54 ([89f9858](https://github.com/rbkmoney/fe-core/commit/89f985866ba6e99d561c2ae6835daf9c34e1221f))
+* 73 ([197111b](https://github.com/rbkmoney/fe-core/commit/197111beceb233d4deceab92b2bab9be74edd254))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* git add ([d167084](https://github.com/rbkmoney/fe-core/commit/d1670844dc0114538cbf7cb5a9b2d0a735a930f7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* post commit ([a6df869](https://github.com/rbkmoney/fe-core/commit/a6df869933502f715f7c87fc1073babee5d3162f))
+* test ([59df7f0](https://github.com/rbkmoney/fe-core/commit/59df7f03b15478765bf5507d959d56eda6b01386))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
 # [0.5.0-pr.73](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.73) (2021-04-14)
 
 
