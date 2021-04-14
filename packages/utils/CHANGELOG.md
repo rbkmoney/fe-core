@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0-alpha.0](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.3.1...@rbkmoney/utils@0.4.0-alpha.0) (2021-04-14)
+
+
+### Features
+
+* test ([9e8b693](https://github.com/rbkmoney/fe-core/commit/9e8b693477bbb1ba9da7d6f9b2589c316e756b2c))
+
+
+
+
+
 ## [0.3.1](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.3.1-alpha.0...@rbkmoney/utils@0.3.1) (2021-04-13)
 
 **Note:** Version bump only for package @rbkmoney/utils
