@@ -1,4 +1,4 @@
-# Utils 1
+# Utils
 
 ## Installation
 
