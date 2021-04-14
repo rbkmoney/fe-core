@@ -43,4 +43,4 @@ fetch(params: P, continuationToken: string): Observable<FetchResult<R>>
 
 ## Contributing
 
-Full details in the [monorepo root README.md](https://github.com/rbkmoney/fe-core#development)
+Full details in the [monorepo root README.md](https://github.com/rbkmoney/fe-core#contributing)
