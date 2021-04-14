@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 0.7.0-pr.0 (2021-04-14)
+
+
+### Features
+
+* desc ([170f543](https://github.com/rbkmoney/fe-core/commit/170f54397b229644afb9086e8f59ae788900e3e4))
+
+
+
+
+
 # [0.7.0-alpha.0](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/partial-fetcher2@0.6.0...@rbkmoney/partial-fetcher2@0.7.0-alpha.0) (2021-04-14)
 
 
