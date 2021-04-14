@@ -3,6 +3,36 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0-pr.38](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.38) (2021-04-14)
+
+
+### Bug Fixes
+
+* 32 ([2296f9f](https://github.com/rbkmoney/fe-core/commit/2296f9f9ac9ef4d6ff612cb06fc38849f3cc85b0))
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* amend ([1359dd4](https://github.com/rbkmoney/fe-core/commit/1359dd482ead79e7a9e8665626545cc05c41b0bf))
+* amend ([cba9410](https://github.com/rbkmoney/fe-core/commit/cba941014a1eed27aabd40ac4b7e3e3593b13363))
+* amend ([3875216](https://github.com/rbkmoney/fe-core/commit/38752167ca0bffc281e98ef9ec69099fafbca5e7))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* no verify ([d97f38a](https://github.com/rbkmoney/fe-core/commit/d97f38ad5a70eb71403dc1304f83e521e3de65f2))
+* no verify ([3f47da6](https://github.com/rbkmoney/fe-core/commit/3f47da643b86f35f06478416dd99b53fc6f6f592))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
 # [0.5.0-pr.37](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.37) (2021-04-14)
 
 
