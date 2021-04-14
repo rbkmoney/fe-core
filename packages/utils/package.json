@@ -3,8 +3,9 @@
   "version": "0.2.0",
   "description": "Utils",
   "author": "rbkmoney",
-  "main": "lib/index.js",
-  "types": "lib/index.d.js",
+  "main": "lib/index",
+  "types": "lib/index",
+  "files": ["lib"],
   "scripts": {
     "build": "npm run clean & tsc -p tsconfig.json",
     "clean": "shx rm -rf lib"
@@ -16,7 +17,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rbkmoney"
   },
-  "optionalDependencies": {
+  "peerDependencies": {
     "@angular/core": "^11.0.0"
   }
 }

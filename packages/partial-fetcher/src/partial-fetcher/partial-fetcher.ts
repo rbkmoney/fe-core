@@ -12,13 +12,13 @@ import {
     switchMap,
     tap,
 } from 'rxjs/operators';
+import { progress } from '@rbkmoney/utils';
 
 import { FetchAction } from './fetch-action';
 import { FetchFn } from './fetch-fn';
 import { FetchResult } from './fetch-result';
 import { scanAction, scanFetchResult } from './operators';
 import { SHARE_REPLAY_CONF } from './utils/share-replay-conf';
-import { progress } from './utils/progress';
 
 // TODO: make free of subscription & UntilDestroy
 // TODO: share public props together

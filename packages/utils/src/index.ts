@@ -1,1 +1,2 @@
-export * from './component-changes';
+export * from './angular';
+export * from './operators';

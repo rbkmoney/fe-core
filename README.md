@@ -1,6 +1,6 @@
 # Frontend Libs Monorepo
 
--   [NPM Workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
+-   NPM >7 ([Workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces))
 -   [Lerna](https://github.com/lerna/lerna)
 
 -   CommitLint
@@ -23,6 +23,19 @@
     ```
 
 ## Contributing
+
+### Installation
+
+```shell
+npx lerna bootstrap
+```
+
+### Deps management
+
+-   [Add](https://github.com/lerna/lerna/tree/main/commands/add)
+    ```shell
+    lerna add <package>[@version] [--dev] [--exact] [--peer]
+    ```
 
 ### Linking
 

@@ -3,8 +3,9 @@
   "version": "0.2.0",
   "description": "Partial Fetcher",
   "author": "rbkmoney",
-  "main": "lib/index.js",
-  "types": "lib/index.d.js",
+  "main": "lib/index",
+  "types": "lib/index",
+  "files": ["lib"],
   "scripts": {
     "build": "npm run clean & tsc -p tsconfig.json",
     "clean": "shx rm -rf lib",
@@ -17,8 +18,11 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rbkmoney"
   },
-  "optionalDependencies": {
+  "peerDependencies": {
     "@ngneat/until-destroy": "^8.0.0",
     "rxjs": "^6.0.0"
+  },
+  "dependencies": {
+    "@rbkmoney/utils": "^0.2.0"
   }
 }
