@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0-pr.27](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.27) (2021-04-14)
+
+
+### Bug Fixes
+
+* add about versioning ([5920b2b](https://github.com/rbkmoney/fe-core/commit/5920b2be27c4c3c5724f462103af96a75e2b4daf))
+* no verify ([c81f911](https://github.com/rbkmoney/fe-core/commit/c81f911f8ddfb437d7afee3d03c525a04ff0cbe2))
+* test commit ([dc13b01](https://github.com/rbkmoney/fe-core/commit/dc13b0158479c4072d02091a0964f02a4a591be5))
+
+
+### Features
+
+* 25 ([e5441fe](https://github.com/rbkmoney/fe-core/commit/e5441fe1fe80ae9340d39f847038e9a2ed24b2c3))
+* 25 ([41cc101](https://github.com/rbkmoney/fe-core/commit/41cc101a832d5c4e307b8313c315aaa72935c2fb))
+* 25 ([b7ae469](https://github.com/rbkmoney/fe-core/commit/b7ae46980274c9cf6136c3c09c994c1db2772012))
+* 25 ([340ccb2](https://github.com/rbkmoney/fe-core/commit/340ccb2560dee11e3db2aeb5aeafcb997e4f2dbd))
+* read ([758995c](https://github.com/rbkmoney/fe-core/commit/758995c781b5015e1ca71efd11668ae500179be7))
+* read ([7729fd3](https://github.com/rbkmoney/fe-core/commit/7729fd335d768db112ed470ce3d9d713512e39ef))
+* test ([263026b](https://github.com/rbkmoney/fe-core/commit/263026b2023a203bacc15de0366a57c2cd92d3e3))
+
+
+
+
+
 # [0.5.0-pr.26](https://github.com/rbkmoney/fe-core/compare/@rbkmoney/utils@0.4.1-alpha.0...@rbkmoney/utils@0.5.0-pr.26) (2021-04-14)
 
 
