@@ -19,7 +19,7 @@ Use a `partial-fetcher`!
 npm i --save @rbkmoney/partial-fetcher
 ```
 
-Full details in the [monorepo root README.md](https://github.com/rbkmoney/fe-core#readme)
+Full details in the [monorepo root README.md](https://github.com/rbkmoney/fe-core#installation)
 
 ## Usage
 
@@ -40,3 +40,7 @@ fetch(params: P, continuationToken: string): Observable<FetchResult<R>>
 -   Get your items from `searchResult$`, check if it has more with `hasMore$`, get loading state from `doAction$` and subscribe to errors with `errors$`.
 
 -   **You're awesome!**
+
+## Contributing
+
+Full details in the [monorepo root README.md](https://github.com/rbkmoney/fe-core#development)
