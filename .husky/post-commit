@@ -2,4 +2,5 @@
 . "$(dirname "$0")/_/husky.sh"
 
 npm run versionup
+git add .
 git commit -m "Bump" --no-verify
