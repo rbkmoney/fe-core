@@ -1,11 +1,13 @@
 {
   "name": "@rbkmoney/utils",
-  "version": "0.2.0",
+  "version": "0.3.0-pr.0",
   "description": "Utils",
   "author": "rbkmoney",
   "main": "lib/index",
   "types": "lib/index",
-  "files": ["lib"],
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "build": "npm run clean & tsc -p tsconfig.json",
     "clean": "shx rm -rf lib"
