@@ -1,6 +1,6 @@
 # Utils
 
-For
+Utils for working with
 
 -   Angular
 -   RxJS
