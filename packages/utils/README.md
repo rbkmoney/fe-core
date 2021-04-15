@@ -1,5 +1,8 @@
 # Utils
 
+-   Angular
+-   RxJS
+
 ## Installation
 
 ```sh
