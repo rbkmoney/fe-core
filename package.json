@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "prepare": "husky install",
-    "bootstrap": "lerna bootstrap",
+    "bp": "lerna bootstrap",
     "build": "lerna run build",
     "test": "lerna run test",
     "versionup": "lerna version --no-commit-hooks --conventional-prerelease --no-push --no-changelog --preid pr --yes",
