@@ -1,6 +1,6 @@
 # Partial-fetcher
 
-**The library for fetching data from endpoints that uses continuationToken.**
+**The library for fetching data from endpoints that uses continuationToken**
 
 API answers something like this?
 

@@ -31,8 +31,8 @@ jobs:
       - name: Test
         run: npm run test
       - name: Changed list
-        run: npx lerna changed --json
-      - name: Publish new PR version
+        run: npx lerna changed --json --include-merged-tags
+      - name: Version up
         run: npm run versionup
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
