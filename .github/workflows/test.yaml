@@ -10,8 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # https://stackoverflow.com/questions/60180630/lerna-always-lists-all-packages-ready-to-publish-when-running-workflow-of-github
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
       - name: Setup Node ${{ matrix.node_version }}
         uses: actions/setup-node@v1
         with:
@@ -31,7 +35,7 @@ jobs:
       - name: Test
         run: npm run test
       - name: Changed list
-        run: npx lerna changed --json --include-merged-tags
+        run: npx lerna changed --json
       - name: Version up
         run: npm run versionup
         env:
