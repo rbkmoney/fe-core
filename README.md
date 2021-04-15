@@ -1,6 +1,6 @@
 # Frontend Libs Monorepo
 
--   [NPM Workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces)
+-   NPM >7 ([Workspaces](https://docs.npmjs.com/cli/v7/using-npm/workspaces))
 -   [Lerna](https://github.com/lerna/lerna)
 
 -   CommitLint
@@ -24,21 +24,39 @@
 
 ## Contributing
 
-### Linking
+### Installation
 
-```sh
-npm link '<PATH>/fe-core/packages/<PACKAGE_DIR>'
+```shell
+npx lerna bootstrap
 ```
+
+### Deps management
+
+-   [Add](https://github.com/lerna/lerna/tree/main/commands/add)
+    ```shell
+    lerna add <package>[@version] [--dev] [--exact] [--peer]
+    ```
 
 ### Versioning & GIT Commits
 
-The project uses [ConventionalCommits](https://www.conventionalcommits.org/)
+[ConventionalCommits](https://www.conventionalcommits.org/)
 
 -   **fix:** a commit of the type fix patches a bug in your codebase (this correlates with PATCH in Semantic Versioning).
 -   **feat:** a commit of the type feat introduces a new feature to the codebase (this correlates with MINOR in Semantic Versioning).
 -   **BREAKING CHANGE:** a commit that has a footer BREAKING CHANGE:, or appends a ! after the type/scope, introduces a breaking API change (correlating with MAJOR in Semantic Versioning). A BREAKING CHANGE can be part of commits of any type.
 -   types other than fix: and feat: are allowed, for example @commitlint/config-conventional (based on the the Angular convention) recommends build:, chore:, ci:, docs:, style:, refactor:, perf:, test:, and others.
 -   footers other than BREAKING CHANGE: <description> may be provided and follow a convention similar to git trailer format.
+
+### Development
+
+Linking to the project that needs
+
+```sh
+npm link '<PATH>/fe-core/packages/<PACKAGE_DIR>'
+
+# Example:
+# npm link '../fe-core/packages/utils'
+```
 
 ### Publish
 
