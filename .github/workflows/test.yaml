@@ -30,6 +30,8 @@ jobs:
         run: npm run build
       - name: Test
         run: npm run test
+      - name: Changed list
+        run: npx lerna changed --json
       - name: Publish new PR version
         run: npm run versionup
         env:
