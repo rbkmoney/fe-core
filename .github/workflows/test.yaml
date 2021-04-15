@@ -34,8 +34,6 @@ jobs:
         run: npm run build
       - name: Test
         run: npm run test
-      - name: Changed list
-        run: npx lerna changed --json
       - name: Version up
         run: npm run versionup
         env:
