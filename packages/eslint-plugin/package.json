@@ -1,0 +1,31 @@
+{
+  "name": "@rbkmoney/eslint-plugin",
+  "version": "0.1.0-pr.0",
+  "description": "ESLint Configs",
+  "author": "rbkmoney",
+  "main": "lib/index",
+  "types": "lib/index",
+  "files": [
+    "lib"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbkmoney/fe-core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rbkmoney"
+  },
+  "dependencies": {
+    "@angular-eslint/eslint-plugin": "^4.0.0",
+    "@angular-eslint/eslint-plugin-template": "^4.0.0",
+    "@typescript-eslint/eslint-plugin": "^4.22.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jasmine": "^4.1.2",
+    "eslint-plugin-jsdoc": "^32.3.1",
+    "eslint-plugin-prefer-arrow": "^1.2.3",
+    "eslint-plugin-unused-imports": "^1.1.1",
+    "eslint-plugin-you-dont-need-lodash-underscore": "^6.11.0"
+  }
+}
