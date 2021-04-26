@@ -1,6 +1,6 @@
 {
   "name": "@rbkmoney/partial-fetcher",
-  "version": "0.4.0",
+  "version": "0.4.1-pr.0",
   "description": "Partial Fetcher",
   "author": "rbkmoney",
   "main": "lib/index",
@@ -25,6 +25,6 @@
     "rxjs": "^6.0.0"
   },
   "dependencies": {
-    "@rbkmoney/utils": "^0.4.0"
+    "@rbkmoney/utils": "^0.4.1-pr.0"
   }
 }
