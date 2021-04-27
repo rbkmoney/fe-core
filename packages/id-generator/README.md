@@ -23,9 +23,9 @@ constructor(private idGenerator: IdGeneratorService) {}
 -   Call the methods you want
 
 ```typescript
-const uuid = this.idGenerator.generateUUID();
+const uuid = this.idGenerator.uuid();
 
-const shortUuid = this.idGenerator.generateShortUUID();
+const shortUuid = this.idGenerator.shortUuid();
 ```
 
 ## Contributing
