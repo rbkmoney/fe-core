@@ -20,8 +20,10 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/@rbkmoney"
   },
-  "peerDependencies": {
-    "rxjs": "^6.0.0",
+  "dependencies": {
     "short-uuid": "^4.1.0"
+  },
+  "peerDependencies": {
+    "@angular/core": "^11.0.0"
   }
 }

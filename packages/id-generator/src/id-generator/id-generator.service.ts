@@ -3,11 +3,11 @@ import * as short from 'short-uuid';
 
 @Injectable()
 export class IdGeneratorService {
-    generateUUID(): string {
+    uuid(): string {
         return short().uuid();
     }
 
-    generateShortUUID(): string {
+    shortUuid(): string {
         return short().generate();
     }
 }

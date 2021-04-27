@@ -1,15 +1,10 @@
-import { TestBed } from '@angular/core/testing';
-
 import { IdGeneratorService } from './id-generator.service';
 
 describe('IdGeneratorService', () => {
     let service: IdGeneratorService;
 
     beforeEach(() => {
-        TestBed.configureTestingModule({
-            providers: [IdGeneratorService],
-        });
-        service = TestBed.inject(IdGeneratorService);
+        service = new IdGeneratorService();
     });
 
     it('should be created', () => {
@@ -18,21 +13,21 @@ describe('IdGeneratorService', () => {
 
     describe('generateUUID', () => {
         it('should generate uuid', () => {
-            expect(service.generateUUID()).toBeTruthy();
+            expect(service.uuid()).toBeTruthy();
         });
 
         it('new generated uuid should be not like it was before', () => {
-            expect(service.generateUUID()).not.toBe(service.generateUUID());
+            expect(service.uuid()).not.toBe(service.uuid());
         });
     });
 
     describe('generateShortUUID', () => {
         it('should generate short uuid', () => {
-            expect(service.generateUUID()).toBeTruthy();
+             expect(service.shortUuid()).toBeTruthy();
         });
 
         it('new generated short uuid should be not like it was before', () => {
-            expect(service.generateUUID()).not.toBe(service.generateUUID());
+            expect(service.shortUuid()).not.toBe(service.shortUuid());
         });
     });
 });
