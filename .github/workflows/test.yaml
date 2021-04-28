@@ -16,16 +16,6 @@ jobs:
         with:
           fetch-depth: 0
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
-      - uses: 8BitJonny/gh-get-current-pr@v1
-        id: PR
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-      - run: echo "Your PR is ${prNumber} and its JSON is ${prJSON}"
-        if: success() && steps.PR.outputs.number
-        env:
-          prNumber: ${{ steps.PR.outputs.number }}
-          // JSON object with the full PR object
-          prJSON: ${{ steps.PR.outputs.pr }}
       - name: Setup Node ${{ matrix.node_version }}
         uses: actions/setup-node@v1
         with:
@@ -45,9 +35,10 @@ jobs:
       - name: Test
         run: npm run test
       - name: Version up
-        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr --yes
+        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr${{ PR_VERSION }} --yes
         if: success() && steps.PR.outputs.number
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_VERSION: ${{ github.event.pull_request.number }}
