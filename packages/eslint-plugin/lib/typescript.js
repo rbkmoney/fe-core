@@ -6,8 +6,8 @@ module.exports = {
         'eslint:recommended',
         'plugin:@typescript-eslint/recommended',
         'plugin:@typescript-eslint/recommended-requiring-type-checking',
-        require.resolve('./import.json'),
-        require.resolve('./unused-imports.json'),
+        require.resolve('./import.js'),
+        require.resolve('./unused-imports.js'),
     ],
     rules: {
         'no-console': ['error', { allow: ['warn', 'error'] }],
@@ -48,6 +48,11 @@ module.exports = {
                 leadingUnderscore: 'allow',
             },
             {
+                selector: 'default',
+                modifiers: ['destructured'],
+                format: null,
+            },
+            {
                 selector: 'typeLike',
                 format: ['StrictPascalCase'],
             },
@@ -66,6 +71,26 @@ module.exports = {
             {
                 selector: 'enumMember',
                 format: ['StrictPascalCase'],
+            },
+            {
+                selector: ['objectLiteralProperty', 'typeProperty'],
+                format: ['camelCase', 'snake_case'],
+                leadingUnderscore: 'allow',
+                trailingUnderscore: 'allow',
+            },
+            {
+                selector: [
+                    'classProperty',
+                    'objectLiteralProperty',
+                    'typeProperty',
+                    'classMethod',
+                    'objectLiteralMethod',
+                    'typeMethod',
+                    'accessor',
+                    'enumMember',
+                ],
+                modifiers: ['requiresQuotes'],
+                format: null,
             },
         ],
     },
