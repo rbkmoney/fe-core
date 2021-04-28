@@ -39,10 +39,10 @@ jobs:
       - name: Test
         run: npm run test
       - name: Version up
-        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr_${{PR_NUMBER}} --yes
+        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr_${{prNumber}} --yes
         if: success() && steps.PR.outputs.number
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_NUMBER: ${{ steps.PR.outputs.number }}
+          prNumber: ${{ steps.PR.outputs.number }}
