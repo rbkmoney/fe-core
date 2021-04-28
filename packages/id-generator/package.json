@@ -1,0 +1,29 @@
+{
+  "name": "@rbkmoney/id-generator",
+  "version": "0.1.0",
+  "description": "ID Generator",
+  "author": "rbkmoney",
+  "main": "lib/index",
+  "types": "lib/index",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "npm run clean & tsc -p tsconfig.json",
+    "clean": "shx rm -rf lib",
+    "test": "ts-node ../../node_modules/jasmine/bin/jasmine src/**/*.spec.ts --reporter=jasmine-console-reporter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbkmoney/fe-core"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@rbkmoney"
+  },
+  "dependencies": {
+    "short-uuid": "^4.1.0"
+  },
+  "peerDependencies": {
+    "@angular/core": "^11.0.0"
+  }
+}
