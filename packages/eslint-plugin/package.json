@@ -1,6 +1,6 @@
 {
   "name": "@rbkmoney/eslint-plugin",
-  "version": "0.2.0-pr16.0",
+  "version": "0.2.0",
   "description": "ESLint Configs",
   "author": "rbkmoney",
   "main": "lib/index",
