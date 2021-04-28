@@ -35,10 +35,9 @@ jobs:
       - name: Test
         run: npm run test
       - name: Version up
-        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr${{ PR_VERSION }} --yes
+        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr${{ github.event.number }} --yes
         if: success() && steps.PR.outputs.number
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PR_VERSION: ${{ github.event.pull_request.number }}
