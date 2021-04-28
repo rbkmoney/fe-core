@@ -16,6 +16,11 @@ jobs:
         with:
           fetch-depth: 0
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
+      - uses: 8BitJonny/gh-get-current-pr@v1
+        id: PR
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          filterOutClosed: true
       - name: Setup Node ${{ matrix.node_version }}
         uses: actions/setup-node@v1
         with:
@@ -35,8 +40,9 @@ jobs:
       - name: Test
         run: npm run test
       - name: Version up
-        run: npm run versionup
+        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr_${{PR_NUMBER}} --yes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ steps.PR.outputs.number }}
