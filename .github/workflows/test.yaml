@@ -16,11 +16,7 @@ jobs:
         with:
           fetch-depth: 0
       - uses: jwalton/gh-find-current-pr@v1
-        id: findPr
-      - run: echo "Your PR is ${PR}"
-        if: success() && steps.findPr.outputs.number
-        env:
-          PR: ${{ steps.findPr.outputs.pr }}
+        id: pr
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
       - name: Setup Node ${{ matrix.node_version }}
         uses: actions/setup-node@v1
@@ -41,8 +37,9 @@ jobs:
       - name: Test
         run: npm run test
       - name: Version up
-        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr --yes
+        run: npx lerna version --no-commit-hooks --conventional-prerelease --no-changelog --preid pr${PR} --yes
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR: ${{ steps.pr.outputs.pr }}
