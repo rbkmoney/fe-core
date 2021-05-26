@@ -1,7 +1,7 @@
 import { Injectable } from '@angular/core';
 import * as short from 'short-uuid';
 
-@Injectable()
+@Injectable({ providedIn: 'root' })
 export class IdGeneratorService {
     uuid(): string {
         return short().uuid();
